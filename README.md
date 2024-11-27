@@ -70,13 +70,21 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2303.04248
   - *David Berthelot, Arnaud Autef, Jierui Lin, Dian Ang Yap, Shuangfei Zhai, Siyuan Hu, Daniel Zheng, Walter Talbott, Eric Gu*
 
-- **A Geometric Perspective on Diffusion Models** 
+- **A Geometric Perspective on Diffusion Models** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2305.19947
   - *Defang Chen, Zhenyu Zhou, Jian-Ping Mei, Chunhua Shen, Chun Chen, Can Wang*
 
 - **BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping, ICML 2024** [[PyTorch]](https://jiataogu.me/boot/)
   - https://arxiv.org/abs/2306.05544
   - *Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind*
+
+- **Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion, ICLR 2024** [[PyTorch]](https://github.com/sony/ctm)
+  - https://arxiv.org/abs/2310.02279
+  - *Dongjun Kim, Chieh-Hsin Lai, Wei-Hsiang Liao, Naoki Murata, Yuhta Takida, Toshimitsu Uesaka, Yutong He, Yuki Mitsufuji, Stefano Ermon*
+
+- **One-step Diffusion with Distribution Matching Distillation, CVPR 2024** [[PyTorch]](https://github.com/tianweiy/DMD2)
+  - https://arxiv.org/abs/2311.18828
+  - *Tianwei Yin, Michaël Gharbi, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman, Taesung Park*
 
 - **Fast ODE-based Sampling for Diffusion Models in Around 5 Steps, CVPR 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2312.00094
@@ -85,6 +93,15 @@ This resposity maintains a collection of important papers on knowledge distillat
 - **On the Trajectory Regularity of ODE-based Diffusion Sampling, ICML 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2405.11326
   - *Defang Chen, Zhenyu Zhou, Can Wang, Chunhua Shen, Siwei Lyu*
+
+- **Improved Distribution Matching Distillation for Fast Image Synthesis, NeurIPS 2024** [[PyTorch]](https://github.com/tianweiy/DMD2)
+  - https://arxiv.org/abs/2405.11326
+  - *Tianwei Yin, Michaël Gharbi, Taesung Park, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman*
+
+- **Simple and Fast Distillation of Diffusion Models, NeurIPS 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
+  - https://arxiv.org/abs/2409.19681
+  - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen, Siwei Lyu*
+
 
 ## Feature Distillation
 
