@@ -95,7 +95,7 @@ This resposity maintains a collection of important papers on knowledge distillat
   - *Defang Chen, Zhenyu Zhou, Can Wang, Chunhua Shen, Siwei Lyu*
 
 - **Improved Distribution Matching Distillation for Fast Image Synthesis, NeurIPS 2024** [[PyTorch]](https://github.com/tianweiy/DMD2)
-  - https://arxiv.org/abs/2405.11326
+  - https://arxiv.org/abs/2405.14867
   - *Tianwei Yin, Michaël Gharbi, Taesung Park, Richard Zhang, Eli Shechtman, Fredo Durand, William T. Freeman*
 
 - **Simple and Fast Distillation of Diffusion Models, NeurIPS 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
