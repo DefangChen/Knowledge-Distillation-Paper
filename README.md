@@ -90,6 +90,10 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2312.00094
   - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen*
 
+- **Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation, ICML 2024** [[PyTorch]](https://github.com/mingyuanzhou/SiD)
+  - https://arxiv.org/abs/2404.04057
+  - *Mingyuan Zhou, Huangjie Zheng, Zhendong Wang, Mingzhang Yin, Hai Huang*
+
 - **On the Trajectory Regularity of ODE-based Diffusion Sampling, ICML 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2405.11326
   - *Defang Chen, Zhenyu Zhou, Can Wang, Chunhua Shen, Siwei Lyu*
