@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Knowledge-Distillation-Paper
@@ -42,7 +42,13 @@ This resposity maintains a collection of important papers on knowledge distillat
   - https://arxiv.org/abs/2006.05525
   - *Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao.*
 
-## Distillation Accelerates Diffusion Models
+- **A Comprehensive Survey on Knowledge Distillation** 
+  - https://arxiv.org/abs/2503.12067
+  - *Amir M. Mansourian, Rozhan Ahmadi, Masoud Ghafouri, Amir Mohammad Babaei, Elaheh Badali Golezani, Zeynab Yasamani Ghamchi, Vida Ramezanian, Alireza Taherian, Kimia Dinashi, Amirali Miri, Shohreh Kasaei.*
+
+
+
+## Distillation Meets Diffusion Models
 
 <p align="center"><strong>Extremely Promising</strong> !!!!!</p>
 
@@ -104,6 +110,10 @@ This resposity maintains a collection of important papers on knowledge distillat
 
 - **Simple and Fast Distillation of Diffusion Models, NeurIPS 2024** [[PyTorch]](https://github.com/zju-pi/diff-sampler)
   - https://arxiv.org/abs/2409.19681
+  - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen, Siwei Lyu*
+
+- **DICE: Distilling Classifier-Free Guidance into Text Embeddings** 
+  - https://arxiv.org/abs/2502.03726
   - *Zhenyu Zhou, Defang Chen, Can Wang, Chun Chen, Siwei Lyu*
 
 
